@@ -3,6 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/crteezy)](https://github.com/crteezy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chamithra/)](https://www.linkedin.com/in/chamithra/)
+[![StackOverflow Badge](https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/story/2287769)](https://stackoverflow.com/users/story/2287769)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chamithra@gmail.com)](mailto:chamithra@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/crteezy)](https://twitter.com/crteezy)
 
