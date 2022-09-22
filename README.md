@@ -1,5 +1,5 @@
 # Chamithra Thenuwara <!-- :man_technologist: -->
-### Senior Software Engineer at ISA (AirArabia)
+### Associate Tech Lead at ISA (AirArabia)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/crteezy)](https://github.com/crteezy)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chamithra/)](https://www.linkedin.com/in/chamithra/)
